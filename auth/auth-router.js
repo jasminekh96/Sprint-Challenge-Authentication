@@ -12,7 +12,7 @@ router.post('/register', (req, res) => {
 			res.status(201).json(saved);
 		})
 		.catch((error) => {
-			res.status(500).json({ errorMessage: 'registertration does not work' });
+			res.status(500).json({ errorMessage: 'registeration does not work' });
 		});
 });
 

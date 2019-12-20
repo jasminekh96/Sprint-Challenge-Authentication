@@ -49,6 +49,7 @@ Bcrypt hashes a password so that hackers get different responds every time a per
 - [ ] What does bcrypt do to slow down attackers?
 
 Brcypt hashes out the passwords so that when the respond comes in the console or in the authorization it’s different every time.
+// - from 1:1 - When you pick the number as 8/10 it takes a few seconds for the computer to take in the password instead of a few milliseconds. 
 
 - [ ] What are the three parts of the JSON Web Token?
 
